@@ -24,8 +24,8 @@ const PLAYERS = [
 // Player Class
 class Player {
     constructor(id, name, type) {
-        //Create member variables and assign values
-        //Type your code
+        // Create member variables and assign values
+        // Type your code
 
     }
 
@@ -36,8 +36,8 @@ class Player {
 
     // Create a player for displaying
     view = () => {
-     // Loop through players and accumulate HTML template
-    // Type your code here
+        // Accumulate HTML template
+        // Type your code here
 
     
         return player;
@@ -47,8 +47,10 @@ class Player {
 // Superwar Class
 class Superwar {
     constructor(players) {
-        // Create a field players 
-       // Use Map method to loop through players argument and create new players
+    // Create a field players 
+    // Use Map method to loop through players argument and create new players
+    // Type your code here
+
     }
 
     // Display players in HTML
