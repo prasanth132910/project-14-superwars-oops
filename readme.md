@@ -41,9 +41,9 @@ Ohh yes! We have our beloved tests, and you already know how this works. Open th
 ## Trial 1: RETHINK ! REUSE !
 
 Kudos so far so good ! Add `member variables` like id, name, strength, image and type to `class` `Player` then assign them appropriate values such that it _return a valid player object_.
-    *  `strength` can be generated from `getRandomStrength()` `member function`, which _return a random strength_ from 1 to 100 .
-    * `image` can be sequential i.e. "images/super-"+(i+1)+".png"  
-    * `type` of player can alternating between hero and villain or your own logic
+*  `strength` can be generated from `getRandomStrength()` `member function`, which_return a random strength_ from 1 to 100 .
+* `image` can be sequential i.e. "images/super-"+(i+1)+".png"  
+* `type` of player can alternating between hero and villain or your own logic
     ```javascript
     [
         {
