@@ -1,6 +1,6 @@
 # ProGrad
 
-## LAB | ProGrad Superwars
+## Superwars
 
 Dustin and Lucus are best friends, they spend their weekends watching superhero series and playing superhero games. One Friday in school Mr.Hooper who is their computer science faculty member taught them HTML, CSS, and JavaScript. So what's next? It's Weekend! Lucus and Dustin will be on their laptops. Are they watching series or playing games? Lucus says, No we are building a new game.
 
@@ -70,3 +70,7 @@ Dustin and Lucus wants to create players for displaying so help them by creating
 ## Trial 3: THE SUPER WAR !
 
 To begin the war there should be players, we can generate players by creating object for class `Superwars`, which should use `map` array method to loop through passed constant and _return `Player` Objects_. 
+
+## Expected Output
+
+![Superwars](doc/superwar-css.png)
