@@ -73,4 +73,4 @@ To begin the war there should be players, we can generate players by creating ob
 
 ## Expected Output
 
-![Superwars](doc/superwar-css.png)
+![Superwars](doc/superwars-oops.png)
